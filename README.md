@@ -1,16 +1,16 @@
-### Hi there 👋
+**TOMEZAK Melvin**
 
-<!--
-**MelvinTomezak/MelvinTomezak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Bonjour, Je m'appelle *Melvin TOMEZAK*, je suis étudiant en *BUT informatique a Aix-en-Provence*.
 
-Here are some ideas to get you started:
+* Je voudrais devenir *développeur informatique* ou *DATA ANALYST* car j'aime apprendre tout ce qui touche au base de donnée ou la programmation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Lors de mon temps libre j'aime jouer au jeux vidéos, regarder des animés, écouter de la musique...
+
+* Merci d'avoir lu, a bientôt!
+<p align="right">
+ <img src ="https://a-static.besthdwallpaper.com/les-vengeurs-de-tokyo-chifuyu-matsuno-fond-d-ecran-2560x1920-80142_27.jpg" />
+</p>
+
+
+
+
